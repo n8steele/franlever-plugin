@@ -18,5 +18,6 @@
   "repository": "https://github.com/n8steele/franlever-plugin",
   "supportUrl": "https://franlever.com/contact",
   "documentationUrl": "https://franlever.com",
-  "termsOfServiceUrl": "https://franlever.com/terms"
+  "termsOfServiceUrl": "https://franlever.com/terms",
+  "icon": "./assets/icon.png"
 }
