@@ -14,5 +14,9 @@
     "ai-coo"
   ],
   "license": "MIT",
-  "privacyPolicyUrl": "https://franlever.com/privacy"
+  "privacyPolicyUrl": "https://franlever.com/privacy",
+  "repository": "https://github.com/n8steele/franlever-plugin",
+  "supportUrl": "https://franlever.com/contact",
+  "documentationUrl": "https://franlever.com",
+  "termsOfServiceUrl": "https://franlever.com/terms"
 }
